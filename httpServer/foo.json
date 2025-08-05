@@ -1,0 +1,31 @@
+{
+  "menu": {
+    "category": "Main Course",
+    "items": [
+      {
+        "id": 1,
+        "name": "Grilled Chicken",
+        "description": "Tender grilled chicken breast served with a side of mashed potatoes and steamed vegetables.",
+        "price": 15.99,
+        "vegetarian": false,
+        "allergens": ["gluten", "soy"]
+      },
+      {
+        "id": 2,
+        "name": "Vegetable Stir Fry",
+        "description": "A healthy stir fry with mixed vegetables, tofu, and a light soy-based sauce, served over jasmine rice.",
+        "price": 12.99,
+        "vegetarian": true,
+        "allergens": ["soy", "gluten"]
+      },
+      {
+        "id": 3,
+        "name": "Beef Burger",
+        "description": "Juicy beef patty with lettuce, tomato, cheese, and special sauce, served with crispy fries.",
+        "price": 10.99,
+        "vegetarian": false,
+        "allergens": ["gluten", "dairy"]
+      }
+    ]
+  }
+}
